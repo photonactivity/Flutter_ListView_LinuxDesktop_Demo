@@ -1,4 +1,6 @@
-# listview_widget_learn
+# Flutter ListView LinuxDesktop Demo 
+# Default drag scrolling devices
+# https://docs.flutter.dev/release/breaking-changes/default-scroll-behavior-drag
 
 A new Flutter project.
 
